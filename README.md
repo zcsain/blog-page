@@ -1,4 +1,4 @@
-# Blog page
+# Blog page v1
 
 Blog page implemented as a part of a challenge in the course: [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) on [Udemy](https://www.udemy.com/).
 
