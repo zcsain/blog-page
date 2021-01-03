@@ -21,7 +21,6 @@ Tasks to complete challenge:
   - [x] Save posts from compose page
   - [x] Render saved posts on the home page
   - [x] Set dynamic routes for new posts
-  
   - [x] connected to mongoDB
 
 ## Technologies used:
