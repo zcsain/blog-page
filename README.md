@@ -1,4 +1,6 @@
-# Blog page v1
+# Blog page v2
+
+Version 2 of 'Blog page', all blog posts (articles) are now stored to a mongoDB using mongoose.
 
 Blog page implemented as a part of a challenge in the course: [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) on [Udemy](https://www.udemy.com/).
 
@@ -14,13 +16,17 @@ Files that were provided at the beginning of the challenge:
 
 ## Challenge - Finish
 Tasks to complete challenge:
+  v1:
   - [x] Set up route to home, about, contact, compose pages
   - [x] Render header and footer on all pages
   - [x] Save posts from compose page
   - [x] Render saved posts on the home page
   - [x] Set dynamic routes for new posts
+  v2:
+  - connected to mongoDB
 
 ## Technologies used:
   - Node.js (Express)
   - Nodemon
   - EJS
+  - mongoose
