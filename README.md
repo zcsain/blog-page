@@ -16,14 +16,13 @@ Files that were provided at the beginning of the challenge:
 
 ## Challenge - Finish
 Tasks to complete challenge:
-  v1:
   - [x] Set up route to home, about, contact, compose pages
   - [x] Render header and footer on all pages
   - [x] Save posts from compose page
   - [x] Render saved posts on the home page
   - [x] Set dynamic routes for new posts
-  v2:
-  - connected to mongoDB
+  
+  - [x] connected to mongoDB
 
 ## Technologies used:
   - Node.js (Express)
